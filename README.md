@@ -1,2 +1,2 @@
 # SmartHome
-Basics of software project documentation.
+License and about : 
